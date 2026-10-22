@@ -1,0 +1,469 @@
+{
+  "sourceRecords": {
+    "pablo": 73,
+    "killa": 47,
+    "zyn": 56,
+    "velo": 57
+  },
+  "catalogueEntries": {
+    "DENSSI": 6,
+    "CAMO": 8,
+    "XQS": 4,
+    "PABLO": 72,
+    "KILLA": 47,
+    "ZYN": 56,
+    "VELO": 53
+  },
+  "skippedNonPouchOrExistingAliases": [
+    "pablo-gold-new-bundle",
+    "velo-bright-peppermint-0",
+    "velo-purple-grape-0",
+    "velo-wintery-watermelon-zero",
+    "velo-tropical-mango-0-percent-nicotine"
+  ],
+  "unconfirmedNicotine": [
+    {
+      "id": "pablo-exclusive-cappuccino",
+      "title": "PABLO Cappuccino - 30mg"
+    },
+    {
+      "id": "killa-dry-cold-mint",
+      "title": "KILLA Dry Cold Mint"
+    },
+    {
+      "id": "zyn-black-licorice-mini-3mg-nicotine-pouches",
+      "title": "ZYN Black Licorice Mini - 3mg"
+    },
+    {
+      "id": "zyn-gold",
+      "title": "ZYN Gold - 6mg"
+    },
+    {
+      "id": "velo-eucalyptus-storm",
+      "title": "VELO Eucalyptus Storm"
+    }
+  ],
+  "missingImages": [],
+  "officialSupplementCount": 88,
+  "ngpProductsReviewed": [
+    {
+      "name": "Pablo Ice Cold XXL",
+      "url": "https://ngpeurope.eu/product/1097/pablo-ice-cold-xxl"
+    },
+    {
+      "name": "Killa Cold Mint XXL",
+      "url": "https://ngpeurope.eu/product/1080/killa-cold-mint-xxl"
+    },
+    {
+      "name": "Pablo Exclusive 50mg Frosted Mint",
+      "url": "https://ngpeurope.eu/product/1174/pablo-exclusive-50mg-frosted-mint"
+    },
+    {
+      "name": "Pablo Ice Cold 16g",
+      "url": "https://ngpeurope.eu/product/1003/pablo-ice-cold-16g"
+    },
+    {
+      "name": "Pablo Exclusive 50mg Bubblegum",
+      "url": "https://ngpeurope.eu/product/1176/pablo-exclusive-50mg-bubblegum"
+    },
+    {
+      "name": "Pablo Exclusive 50mg Blueberry Cranberry Cherry ",
+      "url": "https://ngpeurope.eu/product/1509/pablo-exclusive-50mg-blueberry-cranberry-cherry"
+    },
+    {
+      "name": "Pablo Exclusive 50mg Pink Lemonade ",
+      "url": "https://ngpeurope.eu/product/1512/pablo-exclusive-50mg-pink-lemonade"
+    },
+    {
+      "name": "Pablo Ice Cold 50mg Limited Edition ",
+      "url": "https://ngpeurope.eu/product/1515/pablo-ice-cold-50mg-limited-edition"
+    },
+    {
+      "name": "KILLA Apple 16g",
+      "url": "https://ngpeurope.eu/product/1039/killa-apple-16g"
+    },
+    {
+      "name": "Pablo Exclusive 50mg Tropical Punch",
+      "url": "https://ngpeurope.eu/product/1419/pablo-exclusive-50mg-tropical-punch"
+    },
+    {
+      "name": "Pablo Exclusive 50mg Green Mint",
+      "url": "https://ngpeurope.eu/product/1414/pablo-exclusive-50mg-green-mint"
+    },
+    {
+      "name": "Killa Frosted Mint 16g",
+      "url": "https://ngpeurope.eu/product/1198/killa-frosted-mint-16g"
+    },
+    {
+      "name": "Killa Energy 16g",
+      "url": "https://ngpeurope.eu/product/1036/killa-energy-16g"
+    },
+    {
+      "name": "Killa Grape Ice 16g",
+      "url": "https://ngpeurope.eu/product/1195/killa-grape-ice-16g"
+    },
+    {
+      "name": "Pablo Exclusive 50mg Blue Raspberry",
+      "url": "https://ngpeurope.eu/product/1416/pablo-exclusive-50mg-blue-raspberry"
+    },
+    {
+      "name": "Killa Cola 16g",
+      "url": "https://ngpeurope.eu/product/1040/killa-cola-16g"
+    },
+    {
+      "name": "Pablo Exclusive 50mg Banana Ice",
+      "url": "https://ngpeurope.eu/product/1177/pablo-exclusive-50mg-banana-ice"
+    },
+    {
+      "name": "Pablo Exclusive 50mg Blue Mint",
+      "url": "https://ngpeurope.eu/product/1417/pablo-exclusive-50mg-blue-mint"
+    },
+    {
+      "name": "Pablo Exclusive 50mg Strawberry Kiwi",
+      "url": "https://ngpeurope.eu/product/1513/pablo-exclusive-50mg-strawberry-kiwi"
+    },
+    {
+      "name": "Pablo RED 16g",
+      "url": "https://ngpeurope.eu/product/1043/pablo-red-16g"
+    },
+    {
+      "name": "Pablo Exclusive 50mg Orange",
+      "url": "https://ngpeurope.eu/product/1412/pablo-exclusive-50mg-orange"
+    },
+    {
+      "name": "Killa Dry Frosted Mint 12g",
+      "url": "https://ngpeurope.eu/product/1187/killa-dry-frosted-mint-12g"
+    },
+    {
+      "name": "Killa Exclusive Lemonade 16g",
+      "url": "https://ngpeurope.eu/product/1404/killa-exclusive-lemonade-16g"
+    },
+    {
+      "name": "Pablo Silver Edition Pear 14g",
+      "url": "https://ngpeurope.eu/product/1542/pablo-silver-edition-pear-14g"
+    },
+    {
+      "name": "Killa Mini Banana Ice 15g",
+      "url": "https://ngpeurope.eu/product/1191/killa-mini-banana-ice-15g"
+    },
+    {
+      "name": "Killa Banana Ice 16g",
+      "url": "https://ngpeurope.eu/product/1197/killa-banana-ice-16g"
+    },
+    {
+      "name": "Pablo Gold Edition White Mint 14gr",
+      "url": "https://ngpeurope.eu/product/1505/pablo-gold-edition-white-mint-14gr"
+    },
+    {
+      "name": "Killa Exclusive Orange 16g",
+      "url": "https://ngpeurope.eu/product/1403/killa-exclusive-orange-16g"
+    },
+    {
+      "name": "Killa Exclusive Double Mint 16g",
+      "url": "https://ngpeurope.eu/product/1464/killa-exclusive-double-mint-16g"
+    },
+    {
+      "name": "Pablo Silver Edition Cold Mint 14gr",
+      "url": "https://ngpeurope.eu/product/1545/pablo-silver-edition-cold-mint-14gr"
+    },
+    {
+      "name": "Killa Mini Mango Ice 15g",
+      "url": "https://ngpeurope.eu/product/1181/killa-mini-mango-ice-15g"
+    },
+    {
+      "name": "KILLA Double Dutch Cold 16g",
+      "url": "https://ngpeurope.eu/product/1207/killa-double-dutch-cold-16g"
+    },
+    {
+      "name": "Pablo Gold Edition Grape Ice 14gr",
+      "url": "https://ngpeurope.eu/product/1501/pablo-gold-edition-grape-ice-14gr"
+    },
+    {
+      "name": "Pablo Gold Edition Blueberry Peach Ice 14g",
+      "url": "https://ngpeurope.eu/product/1534/pablo-gold-edition-blueberry-peach-ice-14g"
+    },
+    {
+      "name": "Pablo Exclusive 50mg Mango Ice",
+      "url": "https://ngpeurope.eu/product/1171/pablo-exclusive-50mg-mango-ice"
+    },
+    {
+      "name": "Pablo Gold Edition Pineapple 14g",
+      "url": "https://ngpeurope.eu/product/1537/pablo-gold-edition-pineapple-14g"
+    },
+    {
+      "name": "Pablo Silver Edition Blueberry Peach Ice 14g",
+      "url": "https://ngpeurope.eu/product/1546/pablo-silver-edition-blueberry-peach-ice-14g"
+    },
+    {
+      "name": "Killa Exclusive Strawberry Watermelon 16g",
+      "url": "https://ngpeurope.eu/product/1402/killa-exclusive-strawberry-watermelon-16g"
+    },
+    {
+      "name": "Pablo Exclusive 50mg Sour Blueberries",
+      "url": "https://ngpeurope.eu/product/1514/pablo-exclusive-50mg-sour-blueberries"
+    },
+    {
+      "name": "Pablo Exclusive 50mg Cola ",
+      "url": "https://ngpeurope.eu/product/1511/pablo-exclusive-50mg-cola"
+    },
+    {
+      "name": "Killa Exclusive Dark Cherry 16g",
+      "url": "https://ngpeurope.eu/product/1407/killa-exclusive-dark-cherry-16g"
+    },
+    {
+      "name": "Killa Strawberry Lychee 16g",
+      "url": "https://ngpeurope.eu/product/1234/killa-strawberry-lychee-16g"
+    },
+    {
+      "name": "Pablo Dry Ice Cold 12g",
+      "url": "https://ngpeurope.eu/product/1180/pablo-dry-ice-cold-12g"
+    },
+    {
+      "name": "Pablo Silver Edition Blue Raspberry 14gr",
+      "url": "https://ngpeurope.eu/product/1547/pablo-silver-edition-blue-raspberry-14gr"
+    },
+    {
+      "name": "Killa Cold X Mint 16g",
+      "url": "https://ngpeurope.eu/product/1002/killa-cold-x-mint-16g"
+    },
+    {
+      "name": "Killa Exclusive Cherry Cola 16g",
+      "url": "https://ngpeurope.eu/product/1409/killa-exclusive-cherry-cola-16g"
+    },
+    {
+      "name": "Pablo Exclusive 50mg Pear",
+      "url": "https://ngpeurope.eu/product/1307/pablo-exclusive-50mg-pear"
+    },
+    {
+      "name": "Pablo Silver Edition Grape Ice 14g ",
+      "url": "https://ngpeurope.eu/product/1544/pablo-silver-edition-grape-ice-14g"
+    },
+    {
+      "name": "Pablo Exclusive 50mg Passion Fruit",
+      "url": "https://ngpeurope.eu/product/1308/pablo-exclusive-50mg-passion-fruit"
+    },
+    {
+      "name": "Killa Exclusive Green Mint 16g",
+      "url": "https://ngpeurope.eu/product/1405/killa-exclusive-green-mint-16g"
+    },
+    {
+      "name": "Killa Exclusive Blue Raspberry 16g",
+      "url": "https://ngpeurope.eu/product/1408/killa-exclusive-blue-raspberry-16g"
+    },
+    {
+      "name": "Killa Bubblegum 16g",
+      "url": "https://ngpeurope.eu/product/1196/killa-bubblegum-16g"
+    },
+    {
+      "name": "Killa Mini Frosted Mint 15g",
+      "url": "https://ngpeurope.eu/product/1182/killa-mini-frosted-mint-15g"
+    },
+    {
+      "name": "Killa Mini Blueberry 15g",
+      "url": "https://ngpeurope.eu/product/1184/killa-mini-blueberry-15g"
+    },
+    {
+      "name": "Killa Blueberry 16g",
+      "url": "https://ngpeurope.eu/product/1041/killa-blueberry-16g"
+    },
+    {
+      "name": "Pablo Exclusive 50mg Pineapple ",
+      "url": "https://ngpeurope.eu/product/1517/pablo-exclusive-50mg-pineapple"
+    },
+    {
+      "name": "Pablo Gold Edition Passion Fruit 14gr",
+      "url": "https://ngpeurope.eu/product/1503/pablo-gold-edition-passion-fruit-14gr"
+    },
+    {
+      "name": "Pablo Exclusive 50mg Lemonade",
+      "url": "https://ngpeurope.eu/product/1413/pablo-exclusive-50mg-lemonade"
+    },
+    {
+      "name": "Killa Spearmint 16g",
+      "url": "https://ngpeurope.eu/product/1001/killa-spearmint-16g"
+    },
+    {
+      "name": "KILLA Flash Blueberry 24g",
+      "url": "https://ngpeurope.eu/product/1111/killa-flash-blueberry-24g"
+    },
+    {
+      "name": "Pablo X-Ice Cold 16g",
+      "url": "https://ngpeurope.eu/product/1044/pablo-x-ice-cold-16g"
+    },
+    {
+      "name": "Pablo Exclusive 50mg Kiwi",
+      "url": "https://ngpeurope.eu/product/1309/pablo-exclusive-50mg-kiwi"
+    },
+    {
+      "name": "Killa Angels Energy Drink 250ml",
+      "url": "https://ngpeurope.eu/product/1493/killa-angels-energy-drink-250ml"
+    },
+    {
+      "name": "Pablo Gold Edition Blue Raspberry 14gr ",
+      "url": "https://ngpeurope.eu/product/1496/pablo-gold-edition-blue-raspberry-14gr"
+    },
+    {
+      "name": "Pablo Exclusive 50mg Dark Cherry",
+      "url": "https://ngpeurope.eu/product/1415/pablo-exclusive-50mg-dark-cherry"
+    },
+    {
+      "name": "Killa Mini Cold Mint 15g",
+      "url": "https://ngpeurope.eu/product/1183/killa-mini-cold-mint-15g"
+    },
+    {
+      "name": "Pablo Exclusive 50mg Grape Ice",
+      "url": "https://ngpeurope.eu/product/1173/pablo-exclusive-50mg-grape-ice"
+    },
+    {
+      "name": "Pablo Gold Edition Dark Cherry 14gr",
+      "url": "https://ngpeurope.eu/product/1498/pablo-gold-edition-dark-cherry-14gr"
+    },
+    {
+      "name": "Pablo Gold Edition Cola 14g",
+      "url": "https://ngpeurope.eu/product/1535/pablo-gold-edition-cola-14g"
+    },
+    {
+      "name": "Killa Exclusive Dark Cherry 16g",
+      "url": "https://ngpeurope.eu/product/1407/killa-exclusive-dark-cherry-16g"
+    },
+    {
+      "name": "Pablo Exclusive 50mg Cherry Cola",
+      "url": "https://ngpeurope.eu/product/1418/pablo-exclusive-50mg-cherry-cola"
+    },
+    {
+      "name": "Pablo Exclusive 50mg Frosted Ice",
+      "url": "https://ngpeurope.eu/product/1175/pablo-exclusive-50mg-frosted-ice"
+    },
+    {
+      "name": "Pablo Mini X-Ice Cold 15g",
+      "url": "https://ngpeurope.eu/product/1166/pablo-mini-x-ice-cold-15g"
+    },
+    {
+      "name": "Pablo Gold Edition Frosted Mint 14gr",
+      "url": "https://ngpeurope.eu/product/1500/pablo-gold-edition-frosted-mint-14gr"
+    },
+    {
+      "name": "Pablo Gold Edition Strawberry Kiwi 14g",
+      "url": "https://ngpeurope.eu/product/1538/pablo-gold-edition-strawberry-kiwi-14g"
+    },
+    {
+      "name": "Pablo Exclusive 50mg Watermelon Lemon ",
+      "url": "https://ngpeurope.eu/product/1518/pablo-exclusive-50mg-watermelon-lemon"
+    },
+    {
+      "name": "Killa Cold Mint 16g",
+      "url": "https://ngpeurope.eu/product/1042/killa-cold-mint-16g"
+    },
+    {
+      "name": "Pablo Exclusive 50mg Blueberry Peach Ice ",
+      "url": "https://ngpeurope.eu/product/1510/pablo-exclusive-50mg-blueberry-peach-ice"
+    },
+    {
+      "name": "Pablo Mini Ice Cold 15g",
+      "url": "https://ngpeurope.eu/product/1168/pablo-mini-ice-cold-15g"
+    },
+    {
+      "name": "Pablo Silver Edition Spearmint 14g",
+      "url": "https://ngpeurope.eu/product/1539/pablo-silver-edition-spearmint-14g"
+    },
+    {
+      "name": "Killa Watermelon 16g",
+      "url": "https://ngpeurope.eu/product/1000/killa-watermelon-16g"
+    },
+    {
+      "name": "Pablo Silver Edition Pineapple 14gr",
+      "url": "https://ngpeurope.eu/product/1540/pablo-silver-edition-pineapple-14gr"
+    },
+    {
+      "name": "Killa Exclusive Blue Mint 16g",
+      "url": "https://ngpeurope.eu/product/1406/killa-exclusive-blue-mint-16g"
+    },
+    {
+      "name": "Pablo Silver Edition Peppermint 14gr",
+      "url": "https://ngpeurope.eu/product/1541/pablo-silver-edition-peppermint-14gr"
+    },
+    {
+      "name": "Pablo Gold Edition Tropical Punch 14gr",
+      "url": "https://ngpeurope.eu/product/1504/pablo-gold-edition-tropical-punch-14gr"
+    },
+    {
+      "name": "Killa Exclusive Tropical Punch 16g",
+      "url": "https://ngpeurope.eu/product/1400/killa-exclusive-tropical-punch-16g"
+    },
+    {
+      "name": "Pablo Silver Edition Kiwi 14g",
+      "url": "https://ngpeurope.eu/product/1543/pablo-silver-edition-kiwi-14g"
+    },
+    {
+      "name": "Killa Exclusive Cold Dry 16g",
+      "url": "https://ngpeurope.eu/product/1399/killa-exclusive-cold-dry-16g"
+    },
+    {
+      "name": "Pablo Gold Edition Kiwi 14gr",
+      "url": "https://ngpeurope.eu/product/1502/pablo-gold-edition-kiwi-14gr"
+    },
+    {
+      "name": "Killa Mango Ice 16g",
+      "url": "https://ngpeurope.eu/product/1194/killa-mango-ice-16g"
+    },
+    {
+      "name": "Pablo Exclusive 50mg Strawberry Cheesecake",
+      "url": "https://ngpeurope.eu/product/1170/pablo-exclusive-50mg-strawberry-cheesecake"
+    },
+    {
+      "name": "Pablo Exclusive 50mg Strawberry Lychee",
+      "url": "https://ngpeurope.eu/product/1169/pablo-exclusive-50mg-strawberry-lychee"
+    },
+    {
+      "name": "Killa Pineapple 16g",
+      "url": "https://ngpeurope.eu/product/1338/killa-pineapple-16g"
+    },
+    {
+      "name": "Pablo Gold Edition Frosted Ice 14gr",
+      "url": "https://ngpeurope.eu/product/1499/pablo-gold-edition-frosted-ice-14gr"
+    },
+    {
+      "name": "Pablo Mini Red 15g",
+      "url": "https://ngpeurope.eu/product/1167/pablo-mini-red-15g"
+    },
+    {
+      "name": "Pablo Gold Edition Pear 14g",
+      "url": "https://ngpeurope.eu/product/1536/pablo-gold-edition-pear-14g"
+    },
+    {
+      "name": "Killa Melon 16g",
+      "url": "https://ngpeurope.eu/product/1037/killa-melon-16g"
+    },
+    {
+      "name": "Killa Dry Cold Mint 12g",
+      "url": "https://ngpeurope.eu/product/1188/killa-dry-cold-mint-12g"
+    }
+  ],
+  "ngpPagesReviewed": 6,
+  "totalExpandedEntries": 334,
+  "finalExpandedEntries": 320,
+  "finalBrandCountsExcludingSixExistingZeroEntries": {
+    "DENSSI": 6,
+    "CAMO": 8,
+    "XQS": 4,
+    "PABLO": 75,
+    "KILLA": 50,
+    "ZYN": 78,
+    "VELO": 99
+  },
+  "finalUnconfirmedNicotine": [
+    "pablo-exclusive-cappuccino",
+    "killa-dry-cold-mint",
+    "zyn-black-licorice-mini-3mg-nicotine-pouches",
+    "zyn-gold",
+    "velo-eucalyptus-storm",
+    "ngp-1097",
+    "ngp-1080",
+    "ngp-1515",
+    "ngp-1207",
+    "ngp-1111",
+    "ngp-1044"
+  ],
+  "finalMissingImages": [],
+  "nonPouchAndDuplicateReferencesRemoved": 14
+}

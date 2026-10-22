@@ -1,0 +1,7 @@
+import type {CSSProperties} from 'react';
+import type {Product} from './catalog';
+import {products} from './catalog';
+export const nicotineReference=Math.max(1,...products.filter(p=>p.category==='nicotine'&&p.nicotineMg!==null).map(p=>p.nicotineMg||0));
+export const caffeineReference=Math.max(1,...products.map(p=>p.caffeineMg));
+export function strengthData(p:Product){const caffeine=p.category==='caffeine';const amount=caffeine?p.caffeineMg:p.nicotineMg;const reference=caffeine?caffeineReference:nicotineReference;return {amount,reference,kind:caffeine?'Caffeine':'Nicotine',score:amount===null?null:Math.min(100,Math.max(0,Math.round(amount/reference*100)))}}
+export default function Strength({product:p}:{product:Product}){const d=strengthData(p);return <div className="strength-overlay"><div className="strength-heading"><span>{d.kind} strength</span><strong>{d.score===null?'—':d.score}<small>/100</small></strong></div>{d.score===null?<p className="strength-unknown">Per-pouch strength unconfirmed</p>:<><div className="strength-track" role="meter" aria-label={d.kind+' strength on catalogue scale'} aria-valuemin={0} aria-valuemax={100} aria-valuenow={d.score} aria-valuetext={d.amount+' mg '+d.kind.toLowerCase()+' per pouch; '+d.score+' out of 100 on catalogue scale'}><span style={{'--strength-fill':d.score/100} as CSSProperties}/></div><div className="strength-range"><span>0</span><span>100</span></div><p>{d.amount} mg {d.kind.toLowerCase()} / pouch</p></>}<small>Catalogue scale · 100 = {d.reference} mg/pouch</small></div>}

@@ -1,0 +1,1 @@
+ALTER TABLE `age_checks` ADD `mode` text DEFAULT 'test' NOT NULL;

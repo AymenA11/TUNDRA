@@ -1,0 +1,5 @@
+import type {Product} from './catalog';
+import {matchesFlavour} from './catalog';
+export function matchesStrength(p:Product,strength:string){if(strength==='All')return true;if(strength==='zero')return p.nicotineMg===0;if(strength==='unconfirmed')return p.nicotineMg===null;if(strength==='caffeine')return p.category==='caffeine';if(p.category!=='nicotine'||p.nicotineMg===null)return false;return strength==='light'?p.nicotineMg<=6:strength==='medium'?p.nicotineMg>6&&p.nicotineMg<=12:strength==='strong'?p.nicotineMg>12&&p.nicotineMg<=20:p.nicotineMg>20}
+export function isOnOffer(p:Product){return !!p.offer?.active}
+export function filterProducts(items:Product[],f:{category?:string;brand:string;flavour:string;strength:string;offersOnly:boolean;query:string}){return items.filter(p=>(!f.category||p.category===f.category)&&(f.brand==='All'||p.brand===f.brand)&&matchesFlavour(p,f.flavour)&&matchesStrength(p,f.strength)&&(!f.offersOnly||isOnOffer(p))&&(p.brand+' '+p.name+' '+p.note).toLowerCase().includes(f.query.toLowerCase()))}
